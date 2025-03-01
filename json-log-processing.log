@@ -1,0 +1,1 @@
+{"timestamp":"2025-01-23T19:13:20.508099+0000","level":"ERROR","message":"Exception in thread 1 \"prod\" java.lang.NullPointerException","stacktrace":["at com.example.myproject.Book.getTitle(Book.java:20)","at com.example.myproject.Author.getBookTitles(Author.java:25)","at com.example.myproject.Bootstrap.main(Bootstrap.java:26)"]}
